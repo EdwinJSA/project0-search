@@ -4,11 +4,11 @@
 > more details [Web50-Project0/Search](https://cs50.harvard.edu/web/2020/projects/0/search/)
 
 ## Deployment
-> Github Pages: [search]()
+> Github Pages: [search](https://edwinjsa.github.io/project0-search/)
 
 ## What I was use?
 > Html
 > CSS
 
 ## Video
-> Here You can see the project working [Youtube]()
+> Here You can see the project working [Youtube](https://youtu.be/kCdhdTEa78o)
