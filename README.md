@@ -5,6 +5,7 @@
 
 ## Deployment
 > Github Pages: [search](https://edwinjsa.github.io/project0-search/)
+> Refesh one bit more, because github pages doesn´t display whole css the first time.
 
 ## What I was use?
 > Html
